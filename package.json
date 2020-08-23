@@ -1,0 +1,24 @@
+{
+    "name": "100-javascript-problems",
+    "version": "1.0.0",
+    "description": "Solution of 100 problems using javascript",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sakilahmmad71/100-javascript-problems.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/sakilahmmad71/100-javascript-problems/issues"
+    },
+    "homepage": "https://github.com/sakilahmmad71/100-javascript-problems#readme",
+    "devDependencies": {
+        "jest": "^26.4.2"
+    }
+}
