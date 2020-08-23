@@ -1,4 +1,3 @@
-const absoluteValuesSumMinization = require('./absoluteValuesSumMinization');
 const absoluteValuesSumMinimization = require('./absoluteValuesSumMinization');
 
 test('Median value', () => {
