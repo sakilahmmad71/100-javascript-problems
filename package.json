@@ -18,6 +18,9 @@
     },
     "homepage": "https://github.com/sakilahmmad71/100-javascript-problems#readme",
     "devDependencies": {
+        "@babel/core": "^7.11.4",
+        "@babel/node": "^7.10.5",
+        "@babel/preset-env": "^7.11.0",
         "jest": "^26.4.2"
     }
 }
